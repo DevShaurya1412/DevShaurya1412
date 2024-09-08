@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaurya Veer Singha bhansali known as @DevShaurya1412 by github😄
-- 👀 I am an android developer
+- 👀 I am an android developer👩🏻‍💻
 - 🌱 I’m currently learning kotlin and jetpack compose to enhance my skills.
 - 💞️ I’m looking to collaborate with people to learn from them and work on new ideas.
-- 📫 You can reach me at my linked In @shauryavsbhansali
+- 📫 You can reach me at my linked In @shauryavsbhansali (https://bit.ly/3CqICxr);
